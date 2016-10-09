@@ -1,0 +1,6 @@
+language: swift
+os: osx
+osx_image: xcode8
+script: swift test
+script: swift build --configuration debug
+script: swift build --configuration release
