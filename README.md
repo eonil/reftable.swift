@@ -2,6 +2,8 @@ Reftable
 ========
 Hoon H., Eonil
 
+[![Build Status](https://api.travis-ci.org/eonil/reftable.swift.svg)](https://travis-ci.org/eonil/reftable.swift)
+
 A key-value table which provides strict O(1) referencing time, but you cannot use arbitrary key.
 
 Read by ref-key: strictly O(1).
